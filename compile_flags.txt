@@ -1,0 +1,4 @@
+-I.
+-Ivendor
+-std=c2x
+-Wno-initializer-overrides
