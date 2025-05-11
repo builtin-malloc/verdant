@@ -1,0 +1,1 @@
+int verdant_core_system_dummy;
